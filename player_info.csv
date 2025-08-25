@@ -1,0 +1,54 @@
+Unique ID,Player Name,Birth Date,Batting Style,Bowling Style,Playing Role,Retired/Playing,OLD NAME,Waste,Classification
+IND1,Abhishek Sharma,04-09-2000,Lefthanded,Slow leftarm orthodox,Batting allrounder,Playing,Abhishek Sharma,20000904,Top Order Batsman
+IND2,Ajinkya Rahane,06-06-1988,Righthanded,Rightarm mediumfast,Batsman,Playing,AM Rahane,19880606,Top Order Batsman
+IND3,Axar Patel,20-01-1994,Lefthanded,Slow leftarm orthodox,Allrounder,Playing,AR Patel,19940120,Allrounder
+IND4,Arshdeep Singh,05-02-1999,Lefthanded,Leftarm mediumfast,Bowler,Playing,Arshdeep Singh,19990205,Bowler
+IND5,Avesh Khan,13-12-1996,Righthanded,Rightarm fastmedium,Bowler,Playing,Avesh Khan,19961213,Bowler
+IND6,Bhuvneshwar Kumar,05-02-1990,Righthanded,Rightarm mediumfast,Bowler,Playing,B Kumar,19900205,Bowler
+IND7,B Sai Sudharsan,15-10-2001,Lefthanded,Legbreak,Batsman,Playing,B Sai Sudharsan,20011015,Top Order Batsman
+IND8,C Sakariya,20-02-1998,Lefthanded,Leftarm mediumfast,Bowler,Playing,C Sakariya,19980220,Bowler
+IND9,Varun Chakaravarthy,29-08-1991,Righthanded,Legbreak Googly (Mystery spin),Bowler,Playing,CV Varun,19910829,Bowler
+IND10,Deepak Hooda,19-04-1995,Righthanded,Rightarm offbreak,Allrounder,Playing,DJ Hooda,19950419,Lower Order / Finisher Batsman
+IND11,Deepak Chahar,04-08-1992,Lefthanded,Legbreak Googly,Bowler,Playing,DL Chahar,19920804,Bowler
+IND12,Harshit Rana,18-10-1999,Righthanded,Rightarm mediumfast,Bowler,Playing,Harshit Rana,19991018,Bowler
+IND13,Hardik Pandya,04-10-1994,Righthanded,Rightarm medium,Allrounder,Playing,HH Pandya,19941004,Lower Order / Finisher Batsman
+IND14,Ishan Kishan,18-07-1998,Lefthanded,Rightarm offbreak (parttime),WicketkeeperBatsman,Playing,Ishan Kishan,19980718,Top Order Batsman
+IND15,JD Unadkat,05-03-1991,Righthanded,Leftarm mediumfast,Bowler,Playing,JD Unadkat,19910305,Bowler
+IND16,Jasprit Bumrah,06-12-1993,Righthanded,Rightarm fast,Bowler,Playing,JJ Bumrah,19931206,Bowler
+IND18,KH Pandya,24-12-1995,Lefthanded,Rightarm mediumfast,Allrounder,Playing,KH Pandya,19951224,Lower Order / Finisher Batsman
+IND19,Shahbaz Ahmed,05-12-1994,Lefthanded,Slow leftarm orthodox,Allrounder,Playing,KK Ahmed,19941205,Lower Order / Finisher Batsman
+IND20,KL Rahul,18-04-1992,Righthanded,Wicketkeeperbatsman,WicketkeeperBatsman,Playing,KL Rahul,19920418,Top Order Batsman
+IND21,Kuldeep Yadav,14-12-1994,Righthanded,Leftarm wristspin,Bowler,Playing,Kuldeep Yadav,19941214,Bowler
+IND22,Prasidh Krishna,09-05-1996,Righthanded,Rightarm fast,Bowler,Playing,M Prasidh Krishna,19960509,Bowler
+IND23,Mayank Agarwal,16-02-1991,Righthanded,Right arm Offbreak,Batsman,Playing,MA Agarwal,19910216,Top Order Batsman
+IND24,Manish Pandey,10-02-1989,Righthanded,Right arm Medium,Batsman,Retired,MK Pandey,19890210,Middle Order Batsman
+IND25,Mohammed Shami,03-09-1990,Righthanded,Rightarm fastmedium,Bowler,Playing,Mohammed Shami,19900903,Bowler
+IND26,Mohammed Siraj,13-03-1994,Righthanded,Rightarm fastmedium,Bowler,Playing,Mohammed Siraj,19940313,Bowler
+IND27,NA Saini (Navdeep),23-01-1991,Righthanded,Rightarm mediumfast,Bowler,Retired,NA Saini,19910123,Bowler
+IND28,Tilak Varma,08-11-2002,Lefthanded,Leftarm orthodox (parttime),Batting allrounder,Playing,NT Tilak Varma,20021108,Middle Order Batsman
+IND29,R Ashwin,17-09-1986,Righthanded,Offspin,Allrounder,Playing,R Ashwin,19860917,Allrounder
+IND30,Riyan Parag,10-11-2001,Righthanded,Rightarm offbreak,Allrounder,Playing,R Parag,20011110,Middle Order Batsman
+IND31,Ravindra Jadeja,11-12-1988,Lefthanded,Leftarm orthodox,Allrounder,Playing,RA Jadeja,19881211,Allrounder
+IND32,Ravi Bishnoi,05-09-2000,Righthanded,Legspin,Bowler,Playing,Ravi Bishnoi,20000905,Bowler
+IND33,Rahul Chahar,05-08-1996,Righthanded,Legbreak Googly,Bowler,Playing,RD Chahar,19960805,Bowler
+IND34,Rituraj Gaikwad,31-10-1997,Righthanded,Right arm Offbreak,Batsman,Playing,RD Gaikwad,19971031,Top Order Batsman
+IND35,Rohit Sharma,30-04-1987,Righthanded,Rightarm offbreak (parttime),Batsman,Playing,RG Sharma,19870430,Top Order Batsman
+IND36,Rinku SIngh,26-09-1972,Righthanded,Rightarm fastmedium,Allrounder,Retired,RK Singh,19720926,Middle Order Batsman
+IND37,Rajat Patidar,08-03-1988,Righthanded,Right arm Offbreak,Batsman,Retired,RM Patidar,19880308,Middle Order Batsman
+IND38,Rishabh Pant,04-10-1997,Lefthanded,Wicketkeeperbatsman,WicketkeeperBatsman,Playing,RR Pant,19971004,Middle Order Batsman
+IND39,Shivam Dube,26-07-1991,Lefthanded,Rightarm offbreak,Batting Allrounder,Playing,S Dube,19910726,Lower Order / Finisher Batsman
+IND40,Surya KumarYadav,14-09-1989,Righthanded,Parttime offbreak,Allrounder,Playing,SA Yadav,19890914,Middle Order Batsman
+IND41,Shahbaz Ahmed,08-11-1994,Lefthanded,Leftarm orthodox,Allrounder,Playing,Shahbaz Ahmed,19941108,Allrounder
+IND42,Shubman Gill,08-09-1999,Righthanded,Right arm Offbreak,Batsman,Playing,Shubman Gill,19990908,Top Order Batsman
+IND43,Shardul Thakur,09-02-1992,Righthanded,Rightarm mediumfast,Bowler,Playing,SN Thakur,19920209,Lower Order / Finisher Batsman
+IND44,Shreyas Iyer,06-12-1994,Righthanded,Offspin (parttime),Allrounder,Playing,SS Iyer,19941206,Middle Order Batsman
+IND45,Sanju Samson,11-11-1994,Righthanded,Wicketkeeperbatsman,WicketkeeperBatsman,Playing,SV Samson,19941111,Middle Order Batsman
+IND46,T Natarajan,24-04-1991,Lefthanded,Leftarm mediumfast,Bowler,Playing,T Natarajan,19910424,Bowler
+IND47,Umran Malik,22-11-1999,Righthanded,Rightarm fast,Bowler,Playing,Umran Malik,19991122,Bowler
+IND48,Umesh Yadav,17-09-1994,Righthanded,Rightarm legbreak,Allrounder,Playing,UT Yadav,19940917,Bowler
+IND49,Virat Kohli,05-11-1988,Righthanded,Parttime legbreak (early),Batsman,Playing,V Kohli,19881105,Top Order Batsman
+IND50,Vijay Shankar,04-02-1987,Righthanded,Parttime offspin,Allrounder,Retired,V Shankar,19870204,Lower Order / Finisher Batsman
+IND51,Venkatesh Iyer,20-10-1969,Righthanded,Wicketkeeper,WicketkeeperBatsman,Retired,VR Iyer,19691020,Lower Order / Finisher Batsman
+IND52,Washington Sundar,05-10-1999,Righthanded,Offspin,Allrounder,Playing,Washington Sundar,19991005,Lower Order / Finisher Batsman
+IND53,Yashasvi Jaiswal,28-12-2003,Righthanded,Parttime offspin,Batsman,Playing,YBK Jaiswal,20031228,Top Order Batsman
+IND54,Yuzvendra Chahal,23-07-1990,Righthanded,Legspin,Bowler,Playing,YS Chahal,19900723,Bowler
